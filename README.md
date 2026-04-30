@@ -324,7 +324,7 @@ Facilitated 10+ mentorship sessions for 50+ underprivileged students teaching co
 
 ### Seeking Roles
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square)
-![Frontend Developer](https://img.shields.io/badge/Frontend%2F%20Developer-red?style=flat-square)
+![Frontend Developer](https://img.shields.io/badge/Frontend%20%20Developer-red?style=flat-square)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=flat-square)
 
 ### Preferred Technologies
