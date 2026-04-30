@@ -24,8 +24,6 @@
 | **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshan7484) | 6 Repositories |
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=world&logoColor=white)](https://darshan-portfolio-beta.vercel.app) | Live & Active |
 | **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshandarahu044@gmail.com) | darshandarahu044@gmail.com |
-| **Phone** | [![Phone](https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+918197737723) | +91 8197737723 |
-| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918197737723) | Message Now |
 
 </div>
 
@@ -162,15 +160,6 @@ Constructed health analytics application assessing cardiovascular risk across 13
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|:------:|:----------:|:----:|:-----:|
-| **B.E. Information Science Engineering** | Maharaja Institute of Technology, Mysuru | 2022-2026 | **8.78/10** |
-| **Pre-University (PCMB)** | Marimallappa PU College, Mysuru | 2020-2022 | **92.16%** |
-| **SSLC** | JSS High School Saraswathipuram, Mysuru | 2017-2020 | **93.28%** |
-
----
 
 ## 🏆 Certifications & Credentials
 
@@ -335,7 +324,7 @@ Facilitated 10+ mentorship sessions for 50+ underprivileged students teaching co
 
 ### Seeking Roles
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square)
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-red?style=flat-square)
+![Frontend Developer](https://img.shields.io/badge/Frontend%2FML%20Developer-red?style=flat-square)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=flat-square)
 
 ### Preferred Technologies
@@ -361,13 +350,8 @@ Facilitated 10+ mentorship sessions for 50+ underprivileged students teaching co
 | **LinkedIn** | [![Open](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-s-75893b24b) | 500+ Connections |
 | **GitHub** | [![Open](https://img.shields.io/badge/Follow-181717?style=flat&logo=github)](https://github.com/Darshan7484) | 6 Repositories |
 | **Portfolio** | [![Open](https://img.shields.io/badge/Visit-FF6B6B?style=flat)](https://darshan-portfolio-beta.vercel.app) | Live Projects |
-
-### Contact Methods
-| Method | Link | Details |
-|:------:|:----:|:-------:|
 | **Email** | [![Send](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:darshandarahu044@gmail.com) | darshandarahu044@gmail.com |
-| **Phone** | [![Call](https://img.shields.io/badge/Call-34A853?style=flat&logo=phone)](tel:+918197737723) | +91 8197737723 |
-| **WhatsApp** | [![Chat](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/918197737723) | Message Directly |
+
 
 ### Institutions
 | Institution | Link |
@@ -400,7 +384,7 @@ Facilitated 10+ mentorship sessions for 50+ underprivileged students teaching co
 ![Profile Views](https://komarev.com/ghpvc/?username=Darshan7484&color=0077b6&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Darshan7484?style=flat-square&label=Followers)
 
-**Made with ❤️ by Darshan S**
+**Made by Darshan S**
 
 *Last Updated: April 2026 | Currently Accepting Opportunities*
 
